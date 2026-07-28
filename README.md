@@ -117,7 +117,7 @@ All Datasets found into `data` folder.
 
 <br>
 
-![.CSV file](img/photo2)
+![.CSV file](img/photo2.png)
 
 <br>
 
@@ -125,7 +125,7 @@ All Datasets found into `data` folder.
 
 <br>
 
-![DB](img/photo3)
+![DB](img/photo3.png)
 
 <br>
 
@@ -133,4 +133,4 @@ All Datasets found into `data` folder.
 
 <br>
 
-![Simple Diagram](img/photo4)
+![Simple Diagram](img/photo4.png)
