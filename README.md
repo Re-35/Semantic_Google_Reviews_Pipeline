@@ -49,6 +49,8 @@ options for business solutions.
 
 <br>
 
+‘Note:’ You can download models and save them into project file to reducing stress on pipeline by ‘AutoModelForSequenceClassification.from_pretrained(MODEL_NAME).save_pretrained(MODEL_DIR)’ and ‘AutoTokenizer.from_pretrained(MODEL_NAME).save_pretrained(MODEL_DIR)’
+
 ---
 
 # Data Used in Project:
